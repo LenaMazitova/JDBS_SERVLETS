@@ -32,7 +32,7 @@ CREATE TABLE coach_speciality (
   
 Необходимо добавить файл по пути main/resources/config.properties следующего содержания:  
   
-db.host=jdbc:postgresql://localhost:5432/название вашей БД  
+db.host=jdbc:postgresql://localhost:5432/название вашей БД   
 db.username=наименование пользователя  
 db.password=пароль  
   
